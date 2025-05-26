@@ -1,1 +1,14 @@
-[{"hwid": "None", "key": "oligarh_667", "discordID": "", "blacklisted": false}, {"hwid": "None", "key": "test", "discordID": "", "blacklisted": false}, {"hwid": "e844166e-27489ee-df3-4523d2aa", "key": "test", "discordID": "None", "blacklisted": false}]
+[
+  {
+    "hwid": "None",
+    "key": "oligarh_667",
+    "discordID": "",
+    "blacklisted": false
+  },
+  {
+    "hwid": "None",
+    "key": "test",
+    "discordID": "",
+    "blacklisted": false
+  }
+]
